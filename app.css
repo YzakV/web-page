@@ -1,6 +1,11 @@
 * {
    box-sizing: border-box;
 }
+<<<<<<< HEAD
 p {
    background: red;
+=======
+body {
+   background: grey;
+>>>>>>> cambiar-color-fondo
 }
