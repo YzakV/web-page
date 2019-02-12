@@ -7,3 +7,6 @@ b.onclick = (e)=>{
 let h = "Hello World";
 let i = "Isaac Vega";
 let a = "Vega";
+let x = "Hola";
+let c = 1234;
+function ejecutar(){console.log("Hi");}
