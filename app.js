@@ -1,6 +1,7 @@
+const c = console.log;
 const b = document.getElementById("boton");
 b.onclick = (e)=>{
-   console.log(e);
+   c(e);
    alert("Hola");
 };
 
@@ -9,4 +10,5 @@ let i = "Isaac Vega";
 let a = "Vega";
 let x = "Hola";
 let c = 1234;
-function ejecutar(){console.log("Hi");}
+function ejecutar(){c("Hi");}
+
